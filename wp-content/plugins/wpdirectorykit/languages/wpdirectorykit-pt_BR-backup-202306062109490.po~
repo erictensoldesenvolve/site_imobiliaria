@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WP Directory Kit\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-11 11:37+0000\n"
-"PO-Revision-Date: 2023-06-05 02:14+0000\n"
+"PO-Revision-Date: 2023-06-06 21:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: Português do Brasil\n"
 "Language: pt_BR\n"
@@ -324,7 +324,7 @@ msgstr ""
 #: application/views/wdk_listing/index.php:274
 #: application/views/wdk_messages/edit.php:38
 msgid "Address"
-msgstr ""
+msgstr "Endereço"
 
 #: application/views/wdk_listing/index.php:418
 msgid "Address not found"
@@ -348,6 +348,9 @@ msgid ""
 "After you enter address system will try to autodetect and pin location on "
 "map, then you can drag and drop pin on map to fine tune location"
 msgstr ""
+"Depois de inserir o endereço, o sistema tentará detectar automaticamente e "
+"fixar a localização no mapa, então você pode arrastar e soltar o pino no "
+"mapa para ajustar a localização"
 
 #: custom_user_roles.php:10
 msgid "Agent"
@@ -355,7 +358,7 @@ msgstr ""
 
 #: application/views/wdk_listing/index.php:192
 msgid "Agent Editor"
-msgstr ""
+msgstr "Corretor"
 
 #: elementor-elements/classes/wdk-listing-agent-avatar.php:212
 #: elementor-elements/classes/wdk-listing-agent-field.php:250
@@ -1214,7 +1217,7 @@ msgstr ""
 #: application/controllers/Wdk_settings.php:232
 #: application/views/wdk_category/index.php:16
 msgid "Categories"
-msgstr ""
+msgstr "Categorias"
 
 #: application/controllers/Wdk_settings.php:936
 msgid "Categories already imported"
@@ -1251,7 +1254,7 @@ msgstr ""
 #: application/views/wdk/index.php:211
 #: application/views/wdk_listing/index.php:154
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 #: elementor-elements/classes/wdk-categories-carousel.php:244
 #: elementor-elements/classes/wdk-categories-grid.php:247
@@ -1344,7 +1347,7 @@ msgstr ""
 #: admin/class-wpdirectorykit-admin.php:275
 #: admin/class-wpdirectorykit-admin.php:276
 msgid "Change Currency"
-msgstr ""
+msgstr "Alteração de Moeda"
 
 #: elementor-extensions/class-ajax-handler.php:219
 msgid "Changeover day is"
@@ -1688,7 +1691,7 @@ msgstr ""
 #: elementor-elements/views/wdk-listing-fields-section.php:137
 #: application/views/wdk_listing/index.php:304
 msgid "Content"
-msgstr ""
+msgstr "Descrição"
 
 #: elementor-elements/classes/wdk-listing-agent.php:517
 msgid "Content Box"
@@ -2215,7 +2218,7 @@ msgstr ""
 #: admin/class-wpdirectorykit-admin.php:290
 #: admin/class-wpdirectorykit-admin.php:291
 msgid "Documentation"
-msgstr ""
+msgstr "Documentação"
 
 #: translation_strings/locations_1.php:41
 msgid "Dortmund"
@@ -2684,7 +2687,7 @@ msgstr ""
 
 #: application/views/wdk_listing/index.php:254
 msgid "Featured/Highlighted listing in results"
-msgstr ""
+msgstr "Listagem em destaque/destaque nos resultados"
 
 #: elementor-elements/classes/wdk-listing-agents-listings.php:1286
 #: elementor-elements/classes/wdk-listing-related-listings.php:1022
@@ -2851,7 +2854,7 @@ msgstr ""
 #: elementor-elements/classes/wdk-listings-results.php:834
 #: elementor-elements/classes/wdk-search.php:566
 msgid "Fields"
-msgstr ""
+msgstr "Campos"
 
 #: application/controllers/Wdk_settings.php:1037
 msgid "Fields already imported"
@@ -4600,7 +4603,7 @@ msgstr ""
 #: application/controllers/Wdk_settings.php:227
 #: application/views/wdk_location/index.php:16
 msgid "Locations"
-msgstr ""
+msgstr "Localizações"
 
 #: application/controllers/Wdk_settings.php:869
 msgid "Locations already imported"
@@ -4778,7 +4781,7 @@ msgstr ""
 
 #: application/views/wdk_listing/index.php:253
 msgid "Make it featured"
-msgstr ""
+msgstr "Torná-lo destaque"
 
 #: application/views/wdk_messages/edit.php:48
 msgid "Make it readed"
@@ -5002,7 +5005,7 @@ msgstr ""
 #: filters.php:401 admin/class-wpdirectorykit-admin.php:280
 #: admin/class-wpdirectorykit-admin.php:281
 msgid "Messages"
-msgstr ""
+msgstr "Mensagens"
 
 #: application/views/wdk_messages/index.php:19
 msgid "Messages Management"
@@ -5133,7 +5136,7 @@ msgstr ""
 
 #: application/views/wdk_listing/index.php:165
 msgid "More Categories"
-msgstr ""
+msgstr "Mais Categorias"
 
 #: application/views/wdk_addons/index.php:122
 msgid "More Details"
@@ -5510,11 +5513,11 @@ msgstr ""
 #: application/views/wdk_location/location_edit.php:64
 #: application/views/wdk_location/location_edit.php:72
 msgid "Not Selected"
-msgstr ""
+msgstr "Selecione..."
 
 #: application/views/wdk_listing/index.php:454
 msgid "Not selected"
-msgstr ""
+msgstr "Selecione..."
 
 #: application/views/email/reservation_approved_owner.php:99
 #: application/views/email/reservation_approved_visitor.php:96
@@ -6440,7 +6443,7 @@ msgstr ""
 
 #: application/models/Settings_m.php:116
 msgid "Put default currency symbol like $"
-msgstr ""
+msgstr "Coloque o símbolo de moeda padrão como R$"
 
 #: elementor-elements/classes/wdk-field-files-list.php:177
 #: elementor-elements/classes/wdk-field-files.php:177
@@ -6652,7 +6655,7 @@ msgstr ""
 #: admin/class-wpdirectorykit-admin.php:270
 #: admin/class-wpdirectorykit-admin.php:271
 msgid "Result Card"
-msgstr ""
+msgstr "Cartão de Resultado"
 
 #: application/views/wdk_resultitem/resultitem_edit.php:17
 msgid "Result Card Designer"
@@ -6923,7 +6926,7 @@ msgstr ""
 #: admin/class-wpdirectorykit-admin.php:265
 #: admin/class-wpdirectorykit-admin.php:266
 msgid "Search Form"
-msgstr ""
+msgstr "Formulário de Pesquisa"
 
 #: application/controllers/Wdk_settings.php:156
 #: application/controllers/Wdk_settings.php:247
@@ -7235,7 +7238,7 @@ msgstr ""
 #: elementor-elements/classes/wdk-search.php:31
 #: application/views/wdk_settings/index.php:16
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #: translation_strings/locations_1.php:87
 msgid "Sevilla"
@@ -8153,11 +8156,11 @@ msgstr ""
 #: application/views/wdk_location/index.php:75
 #: application/views/wdk_location/location_edit.php:48
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: elementor-elements/classes/wdk-listing-map.php:370
 msgid "Title Field"
-msgstr ""
+msgstr "Campo de Título"
 
 #: elementor-elements/classes/wdk-listing-agents-listings.php:1274
 #: elementor-elements/classes/wdk-listing-related-listings.php:1010
@@ -8167,15 +8170,15 @@ msgstr ""
 #: elementor-elements/classes/wdk-map.php:818
 #: application/views/wdk_resultitem/resultitem_edit.php:167
 msgid "Title Part"
-msgstr ""
+msgstr "Parte do Título"
 
 #: elementor-elements/classes/wdk-listings-results.php:1989
 msgid "Title Part (Grid)"
-msgstr ""
+msgstr "Parte do Título (Grade)"
 
 #: elementor-elements/classes/wdk-listings-results.php:2057
 msgid "Title Part (List)"
-msgstr ""
+msgstr "Parte do título (lista)"
 
 #. 1: number of plugins.
 #: tgm-pa/class-tgm-plugin-activation.php:2493
